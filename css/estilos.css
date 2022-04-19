@@ -16,6 +16,14 @@ body
     margin: 0 auto;
 }
 
+#cabecera{
+    background: red;
+}
+
+#elespan{
+    background: blue;
+}
+
 #container h1
 {
     font-size: 20px;
